@@ -10,4 +10,4 @@ For over 10 years now I have been learning and hacking about with various langua
 
 I am looking for the opportunity to work on projects focused on web services with RESTful API&#39;s, responsive web clients or alternative front end consumers, testing based workflows with continuous integration. I am also interested in infrastructure automation and deployment Though any interesting problem gets me excited to learn about.
 
-Plesae see my [CV / Résumé](https://shermanrose.uk/assets/cv/sherman_rose_general_2016.pdf) for more information.
+Plesae see my [CV / Résumé](http://shermanrose.uk/assets/cv/sherman_rose_general_2016.pdf) for more information.
