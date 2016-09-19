@@ -1,0 +1,15 @@
+---
+layout: archive
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+Below are a list of the projects I have made or been involved in:
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}

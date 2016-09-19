@@ -11,9 +11,9 @@ title                    : "Sherman's Notebook"
 title_separator          : "-"
 name                     : "Sherman Rose"
 description              : "I write about the things I want to know"
-url                      : "http://shermanrose.uk"
+url                      : "http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "niko-niko/niko-niko.github.io" 
+repository               : 
 teaser                   : 
 # breadcrumbs            : false # true, fase (default)
 words_per_minute         : 200
