@@ -1,5 +1,5 @@
 ---
-title: "BASH: Starting with best practices
+title: "BASH: Starting with best practices"
 excerpt: "It's like working with spit, glue and tounge depressors"
 layout: single
 categories:
