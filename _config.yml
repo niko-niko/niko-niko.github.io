@@ -10,12 +10,12 @@ locale                   : "en-GB"
 title                    : "Sherman's Notebook"
 title_separator          : "-"
 name                     : "Sherman Rose"
-description              : "I write about the things I want to know"
+description              : "I type things down here"
 url                      : "http://shermanrose.uk"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "niko-niko/niko-niko.github.io" 
+repository               : "hiniko/hiniko.github.io" 
 teaser                   : 
-# breadcrumbs            : false # true, fase (default)
+ breadcrumbs             : true # true, fase (default)
 words_per_minute         : 200
 
 collections:
@@ -115,7 +115,7 @@ author:
   name             : "Sherman Rose"
   avatar           : "bio-photo.jpg"
   bio              : "I like to make stuff."
-  location         : "Leeds, UK"
+  location         : "Hertforshire, UK"
   email            : "sherman@shermanrose.uk"
   uri              :
   bitbucket        :
@@ -139,7 +139,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : https://www.youtube.com/channel/UCD4PE-zdDF4rXk9ZZzkt1Bg
 
 
 # Reading Files
