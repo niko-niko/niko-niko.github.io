@@ -4,8 +4,8 @@ main:
     url: /posts
   - title: "Projects"
     url: /projects
-  - title: "Hire Me"
-    url: /hireme
+  - title: "Calendar"
+    url: /calendar
 
 projects:
     - title: "Test Project"
